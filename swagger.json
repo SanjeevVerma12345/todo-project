@@ -11,11 +11,11 @@
   },
   "servers": [
     {
-      "url": "https://todo-project-thp9.onrender.com/",
+      "url": "https://todo-project-thp9.onrender.com",
       "description": "Production server"
     },
     {
-      "url": "https://some-url-for-staging.com",
+      "url": "https://todo-project-thp9.onrender.com",
       "description": "Staging server"
     },
     {
