@@ -11,7 +11,7 @@
   },
   "servers": [
     {
-      "url": "https://some-url-for-production.com",
+      "url": "https://todo-project-thp9.onrender.com/",
       "description": "Production server"
     },
     {
