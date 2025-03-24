@@ -35,7 +35,6 @@ export const internalServerErrorHandler: ErrorRequestHandler = (
     return;
   }
 
-  console.error(err);
   ResponseBuilder.errorResponse(
       res,
       'An unexpected error occurred',
